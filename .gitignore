@@ -1,0 +1,17 @@
+.worktrees/
+.superpowers/
+
+# Python
+backend/.venv/
+__pycache__/
+*.pyc
+backend/data/
+
+# Node
+frontend/node_modules/
+frontend/.next/
+frontend/out/
+
+# Env
+.env
+.env.local
